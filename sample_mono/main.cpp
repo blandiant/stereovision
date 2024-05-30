@@ -2,7 +2,7 @@
 #include <time.h>
 #include <unistd.h>
 #include <atomic>
-#include "ArgusCapture.hpp"
+#include "../lib/include/ArgusCapture.hpp"
 #include "opencv2/opencv.hpp"
 
 int main(int argc, char *argv[]) {
